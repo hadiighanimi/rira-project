@@ -20,7 +20,7 @@
 ابتدا مخزن پروژه را دریافت کنید:
 
 ```bash
-git clone https://github.com/hadiighanimi/task-rira.git
+git clone https://github.com/hadiighanimi/rira-project.git
 ```
 
 ---
@@ -28,7 +28,7 @@ git clone https://github.com/hadiighanimi/task-rira.git
 ### 2️⃣ ورود به پوشه پروژه
 
 ```bash
-cd task-rira
+cd rira-project
 ```
 
 ---

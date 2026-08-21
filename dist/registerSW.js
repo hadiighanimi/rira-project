@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://hadiighanimi.github.io/rira-project/sw.js', { scope: 'https://hadiighanimi.github.io/rira-project/' })})}
