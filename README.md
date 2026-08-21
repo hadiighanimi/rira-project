@@ -15,7 +15,7 @@
 
 ---
 
-### پیشنمایش پروژه
+### پیش نمایش پروژه صرفا جهت بازدید اولیه
 
 ```bash
 https://www.hadighanimi.ir/riraProject/
